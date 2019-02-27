@@ -1,0 +1,46 @@
+[
+{
+  "VIN": "JH4TB2HJ6CC000000",
+  "Make": "Ford",
+  "Model": "Focus",
+  "Type": "hatchback",
+  "Year": "2018"
+  },
+{
+  "VIN": "WAUFFAFM3CA000000",
+  "Make": "BMW",
+  "Model": "5 Series",
+  "Type": "saloon",
+  "Year": "2017"
+},{
+  "VIN": "WMWSX1C58JT000000",
+  "Make": "Vauxhall Insignia",
+  "Type": "estate",
+  "Model": "Sports Tourer",
+  "Year": "2017"
+},{
+  "VIN": "1G4GA5ER7CU000000",
+  "Make": "Ford",
+  "Type": "van",
+  "Model": "Transit",
+  "Year": "2017"
+},{
+  "VIN": "2G1FB1ED4J9000000",
+  "Make": "Vauxhall",
+  "Type": "mpv",
+  "Model": "Zafaria",
+  "Year": "2004"
+},{
+  "VIN": "JN1BY1AP5CM000000",
+  "Make": "Range Rover",
+  "Type": "suv",
+  "Model": "x2500",
+  "Year": "2019"
+},{
+  "VIN": "KLMBY1AP5JM000000",
+  "Make": "Citeron",
+  "Type": "hatchback",
+  "Model": "C3",
+  "Year": "2019"
+}
+  ]

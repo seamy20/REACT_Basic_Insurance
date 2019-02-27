@@ -1,0 +1,10 @@
+[
+  {
+    "zip": "10001",
+    "state": "require('../Drawable/states/base.png')"
+  },
+  {
+    "zip": "90210",
+    "state": "../Drawable/states/california.png"
+  }
+]
